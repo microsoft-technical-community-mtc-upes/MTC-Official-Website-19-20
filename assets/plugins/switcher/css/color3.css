@@ -1,0 +1,179 @@
+/*//////////////////////////////////////////////////////////////////////////////////////////*/
+/* COLOR CSS 1*/
+/*//////////////////////////////////////////////////////////////////////////////////////////*/
+
+
+a,
+.text-primary,
+.text-primary_h:hover,
+.text-primary_b:before,
+.text-primary_a:after,
+.list > li > a:hover,
+.pager li > a:hover,
+.pager li > a:hover .icon,
+.pagination_primary > li:first-child > a:hover,
+.pagination_primary > li:first-child > a:hover .icon,
+.pagination_primary > li:last-child > a:hover,
+.pagination_primary > li:last-child > a:hover .icon,
+.search-close:hover,
+.entry-meta__link:hover,
+.pagination > li > a:hover,
+.pagination > li > span:hover,
+.pagination > li > a:focus,
+.pagination > li > span:focus,
+.pagination > .active > a,
+.pagination > .active > span,
+.pagination > .active > a:hover,
+.pagination > .active > span:hover,
+.pagination > .active > a:focus,
+.pagination > .active > span:focus,
+.b-post-full .entry-footer .post-tags__link:hover {color: #1a59a7;}
+
+
+.bg-primary,
+.bg-primary_h:hover,
+.bg-primary_b:before,
+.bg-primary_a:after,
+.pagination_primary > .active > a,
+.pagination_primary > .active > span,
+.pagination_primary > .active > a,
+.pagination_primary > .active > span,
+.pagination_primary > li > a:hover,
+.pagination_primary > li > a:focus,
+.dropcap_primary:first-letter,
+.tooltip-1 .tooltip-inner,
+.btn-primary,
+.forms__label-check-1:after,
+.forms__label-radio-2:before,
+.panel-default > .panel-heading,
+.b-blockquote_w-quotes:before,
+.b-blockquote_w-quotes-2:before,
+.b-scale__decor:before,
+.b-scale__decor:after,
+.b-tabs-nav li:hover:after,
+.b-tabs-nav li.active:after {background-color: #1a59a7;}
+
+
+.border_prim,
+.border_prim_h:hover,
+.pagination > .active > a,
+.pagination > .active > span,
+.pagination a:hover,
+.pagination span:hover,
+.pagination a:focus,
+.pagination span:focus,
+.progress_border_primary,
+.btn-primary,
+.forms__label-radio-2:before {border-color: #1a59a7;}
+
+.border-t_prim,
+.border-t_prim_h:hover,
+.tooltip-1.top .tooltip-arrow,
+.tooltip-1.top-left .tooltip-arrow,
+.tooltip-1.top-right .tooltip-arrow {border-top-color: #1a59a7;}
+
+.border-r_prim,
+.border-r_prim_h:hover,
+.tooltip-1.right .tooltip-arrow,
+.btn-default .icon,
+.pagination > li:first-child > a,
+.pagination > li:first-child > span,
+.b-post-full .entry-footer .post-tags__title .icon,
+.comments-list .comment-btn .icon,
+.btn-link .icon {border-right-color: #1a59a7;}
+
+.border-b_prim,
+.border-b_prim_h:hover,
+.tooltip-1.bottom .tooltip-arrow,
+.tooltip-1.bottom-left .tooltip-arrow,
+.tooltip-1.bottom-right .tooltip-arrow,
+.table_primary > thead > tr > th,
+.collapse.in {border-bottom-color: #1a59a7;}
+
+.border-l_prim,
+.border-l_prim_h:hover,
+.tooltip-1.left .tooltip-arrow,
+.border-left_primary:before,
+.pagination > li:last-child > a,
+.pagination > li:last-child > span {border-left-color: #1a59a7;}
+
+
+
+
+.text-second,
+.text-second_h:hover,
+.link-tooltip-2,
+.forms__label-check-2:after,
+.breadcrumb > li > a:hover,
+.pagination_secondary > li:first-child > a:hover,
+.pagination_secondary > li:first-child > a:hover .icon,
+.pagination_secondary > li:last-child > a:hover,
+.pagination_secondary > li:last-child > a:hover .icon,
+.footer-list__link:hover,
+.footer-contact__link:hover,
+.widget-list__link:hover {color: #d2a029;}
+
+.bg-second,
+.bg-second_h:hover,
+.tooltip-2 .tooltip-inner,
+.dropcap_secondary:first-letter,
+.pagination_secondary > .active > a,
+.pagination_secondary > .active > span,
+.pagination_secondary > .active > a,
+.pagination_secondary > .active > span,
+.pagination_secondary > li > a:hover,
+.pagination_secondary > li > a:focus,
+.forms__label-radio-1:before,
+.yamm.nav>li>a:focus,
+.yamm.nav>li>a:hover {background-color: #d2a029;}
+
+.border_second,
+.border_second_h:hover,
+.progress_border_secondary,
+.pagination_secondary > .active > a,
+.pagination_secondary > .active > span,
+.pagination_secondary > .active > a,
+.pagination_secondary > .active > span,
+.pagination_secondary > li > a:hover,
+.pagination_secondary > li > a:focus,
+.forms__label-radio-1:before {border-color: #d2a029;}
+
+.border-t_second,
+.border-t_second_h:hover,
+.tooltip-2.top .tooltip-arrow,
+.tooltip-2.top-left .tooltip-arrow,
+.tooltip-2.top-right .tooltip-arrow {border-top-color: #d2a029;}
+
+.border-r_second,
+.border-r_second_h:hover,
+.tooltip-2.right .tooltip-arrow {border-right-color: #d2a029;}
+
+.border-l_second,
+.border-l_second_h:hover,
+.tooltip-2.left .tooltip-arrow {border-left-color: #d2a029;}
+
+.border-b_second,
+.border-b_second_h:hover,
+.tooltip-2.bottom .tooltip-arrow,
+.tooltip-2.bottom-left .tooltip-arrow,
+.tooltip-2.bottom-right .tooltip-arrow,
+.table_secondary > thead > tr > th {border-bottom-color: #d2a029;}
+
+
+.icon-grad,
+.icon-grad_h:hover,
+.b-advantages-2:hover .b-advantages__icon,
+.b-post-2 .entry-date,
+.b-offers-nav__item.active .b-offers-nav__icon {background-image: -webkit-linear-gradient(131deg, #1a59a7 0%, #d2a029 100%);}
+
+
+.bg-grad-1,
+.bg-hov-grad-1:hover,
+.btn-grad-1,
+.icon-grad-2,
+.sp-image-container:after,
+.area-bg_grad-1:after {background-image: linear-gradient(to right, #1a59a7 0%, #d2a029 100%);}
+
+
+.b-post-full .entry-date {background-image: linear-gradient(105deg, #1a59a7 0%, #d2a029 100%);}
+

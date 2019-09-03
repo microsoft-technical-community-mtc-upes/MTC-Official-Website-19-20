@@ -1,0 +1,37 @@
+/*------------------------------------------------------------------
+[Master Stylesheet]
+
+Project: Rewon
+Version:  1.0
+Assigned to:  WebNik
+Primary use: Rewon
+-------------------------------------------------------------------*/
+
+
+/* FONTS*/
+@import 'https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i|Montserrat:400,700|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i|Source+Sans+Pro:400,700';
+@import '../fonts/font-awesome-4.6.3/css/font-awesome.min.css';
+@import '../fonts/stroke/style.css';
+@import '../fonts/elegant/style.css';
+@import '../fonts/flaticon/font/flaticon.css';
+
+
+
+/* PLUGIN CSS */
+
+@import '../libs/bootstrap/bootstrap.css';                /* bootstrap */
+@import '../plugins/headers/header.css';                /* header */
+@import '../plugins/headers/yamm.css';                /* header */
+@import '../plugins/slider-pro/slider-pro.css';         /* main slider */
+@import '../plugins/owl-carousel/owl.theme.css';                 /* other sliders */
+@import '../plugins/bxslider/jquery.bxslider.css';                 /* other sliders */
+@import '../plugins/magnific-popup/magnific-popup.css';            /* modal */
+@import '../plugins/animate/animate.css';                        /* animations */
+
+
+
+/* MAIN CSS */
+
+@import 'theme.css';
+@import 'color.css';
+@import 'responsive.css';
